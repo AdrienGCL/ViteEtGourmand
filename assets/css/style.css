@@ -268,7 +268,7 @@ body{
     width: fit-content;
     height: 30px;
     border-radius: 5px;
-    border: 1px solid var(--primary);
+    border: 1px solid var(--tertiary);
     line-height: 30px;
 }
 .filter-d i{

@@ -1,7 +1,7 @@
 <?php require_once __DIR__. "/templates/header.php"; ?>
 
         <main>
-            <section>
+            <section class="bg-extra-dark">
                 <div class="row justify-content-center p-t-40">
                     <article class="col-4 m-r-20 p-0">
                         <h2 class="row justify-content-center brand-d-sm primary-text">Vite & Gourmand</h2>
@@ -46,7 +46,7 @@
                 </div>
             </section>
 
-            <section class="p-t-40">
+            <section class="p-t-40 bg-extra-dark">
                 <h2 class="row justify-content-center headline-d primary-text m-0">Ce que nos clients en pensent</h2>
                 <div>
                     <div id="mySlideshow" class="slideshow p-0">

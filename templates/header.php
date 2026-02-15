@@ -12,7 +12,7 @@
 <body>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/js/bootstrap.bundle.min.js" integrity="sha384-ndDqU0Gzau9qJ1lfW4pNLlhNTkCfHzAVBReH9diLvGRem5+R9g2FzA8ZGN954O5Q" crossorigin="anonymous"></script>
 
-    <div class="global-container p-40 bg-dark position-relative min-vh-100">
+    <div class="global-container p-t-40 p-b-40 bg-dark position-relative min-vh-100">
         <header class="container-fluid p-0 m-0">
             <div class="d-flex justify-content-center">
                 <h1 class="brand-d primary-text m-0">Vite & Gourmand</h1>
