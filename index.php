@@ -1,53 +1,4 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Vite & Gourmand</title>
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-LN+7fdVzj6u52u30Kp6M/trliBMCMKTyK833zpbD+pXdCLuTusPj697FH4R/5mcr" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.min.css">
-    <link rel="stylesheet" href="assets/css/style.css">
-</head>
-
-<body>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/js/bootstrap.bundle.min.js" integrity="sha384-ndDqU0Gzau9qJ1lfW4pNLlhNTkCfHzAVBReH9diLvGRem5+R9g2FzA8ZGN954O5Q" crossorigin="anonymous"></script>
-
-    <div class="global-container container-fluid p-40 bg-dark">
-        <header class="container-fluid p-0 m-0">
-            <div class="d-flex justify-content-center">
-                <h1 class="brand-d primary-text m-0">Vite & Gourmand</h1>
-            </div>
-            <div class="d-flex justify-content-center">
-                <svg class="col-10 m-t-40 p-0" height="2" xmlns="http://www.w3.org/2000/svg">
-                    <line class="separator" x1="0" y1="0" x2="100%" y2="0"/>
-                </svg>
-            </div>
-            <div class="d-flex justify-content-center m-t-40">
-                <ul class="nav nav-pills headline-d">
-                    <li class="nav-item">
-                        <a href="./index.php" class="nav-link primary-text py-0 px-5" aria-current="page">Accueil</a>
-                    </li>
-                    <li class="nav-item">
-                        <a href="#" class="nav-link primary-text py-0 px-5">Nos Menus</a>
-                    </li>
-                    <li class="nav-item">
-                        <a href="#" class="nav-link primary-text py-0 px-5">Mon Espace</a>
-                    </li>
-                    <li class="nav-item">
-                        <a href="#" class="nav-link primary-text py-0 px-5">Connexion</a>
-                    </li>
-                    <li class="nav-item">
-                        <a href="#" class="nav-link primary-text py-0 px-5">Nous Contacter</a>
-                    </li>
-                </ul>
-            </div>
-            <div class="d-flex justify-content-center">
-                <svg class="col-10 m-t-40 m-b-0 p-0" height="2" xmlns="http://www.w3.org/2000/svg">
-                    <line class="separator" x1="0" y1="0" x2="100%" y2="0"/>
-                    Sorry, your browser does not support inline SVG.
-                </svg>
-            </div>
-        </header>
+<?php require_once __DIR__. "/templates/header.php"; ?>
 
         <main>
             <section>
@@ -97,10 +48,10 @@
 
             <section class="p-t-40">
                 <h2 class="row justify-content-center headline-d primary-text m-0">Ce que nos clients en pensent</h2>
-                <div class="">
+                <div>
                     <div id="mySlideshow" class="slideshow p-0">
                         <div class="d-flex">
-                            <div class="slideshow-item full-width-d active">
+                            <div class="slideshow-item full-width-d slideshow-active">
                                 <div class="d-flex full-width-d justify-content-center">
                                     <div class="bg-primary p-10 m-t-40 radius-5">
                                         <h3 class="headline-d dark-text m-0 m-b-10">Claire D. - 5/5</h3>
@@ -153,15 +104,4 @@
             </section>
         </main>
 
-        <footer class="p-t-40">
-            <h2 class="row justify-content-center headline-d primary-text m-0">Nos horaires</h2>
-            <p class="row justify-content-center mx-0 m-t-40 p-0 text-d white-text">Du mardi au dimanche de 11h30 à 22h</p>
-            <div class="row justify-content-center">
-                <a class="col mx-0 m-t-40 p-0 text-d white-text text-center text-decoration-none" href="">Mentions légales</a>
-                <a class="col mx-0 m-t-40 p-0 text-d white-text text-center text-decoration-none" href="">Conditions générales de vente</a>
-            </div>
-        </footer>
-    </div>
-    
-</body>
-</html>
+<?php require_once __DIR__. "/templates/footer.php"; ?>

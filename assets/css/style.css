@@ -25,6 +25,11 @@
     --pt-sans: "PT Sans", sans-serif;
 }
 
+body{
+    overflow-x: hidden;
+    min-height: 100vh;
+}
+
 /* Classes de texte */
 .headline-d{
     font-family: var(--poppins);
@@ -259,9 +264,26 @@
     line-height: 30px;
 }
 
+.filter-d{
+    width: fit-content;
+    height: 30px;
+    border-radius: 5px;
+    border: 1px solid var(--primary);
+    line-height: 30px;
+}
+.filter-d i{
+    font-size: 12px;
+}
+
 /* Classes de bordures */
 .radius-5{
     border-radius: 5px;
+}
+.border-tertiary{
+    border: 1px solid var(--tertiary);
+}
+.border-primary{
+    border: 1px solid var(--primary);
 }
 
 /* Classes listes */
@@ -276,9 +298,24 @@
     margin: 0;
     color: var(--bg-light);
 }
+.slideshow-item{
+    position: relative !important;
+    left: 100vh;
+}
 .slideshow-active{
     left: 0;
 }
 .dot-active i{
     color: var(--white);
+}
+
+/* Classes input */
+.customInput{
+    border: none;
+    background: none;
+}
+input:focus, select:focus{
+    border: none;
+    background: none;
+    outline: none;
 }
