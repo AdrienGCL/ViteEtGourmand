@@ -10,7 +10,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="row m-l-0 m-r-0 m-b-40 p-20 justify-content-center bg-secondary">
+                <div class="row m-l-0 m-r-0 p-20 justify-content-center bg-secondary d-none">
                     <div class="col-10 m-0 p-0">
                         <div class="row m-0 p-0 justify-content-around">
                             <div class="col-auto d-flex bg-white p-10 m-0 radius-5 border-tertiary">
@@ -52,7 +52,7 @@
             </section>
             
             <section>
-                <div class="menuShort bg-extra-dark">
+                <div class="menuShort bg-extra-dark m-t-40">
                     <div class="row justify-content-center p-t-40">
                         <p class="headline-d primary-text col-auto m-b-10">Nom du menu</p>
                     </div>
