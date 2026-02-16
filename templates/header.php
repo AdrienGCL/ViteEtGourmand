@@ -36,9 +36,9 @@
                     <li class="nav-item">
                         <a href="./connexion.php" class="nav-link primary-text py-0 px-5">Connexion</a>
                     </li>
-                    <li class="nav-item">
+                    <!-- <li class="nav-item">
                         <a href="#" class="nav-link primary-text py-0 px-5">Nous Contacter</a>
-                    </li>
+                    </li> -->
                 </ul>
             </div>
             <div class="d-flex justify-content-center">
