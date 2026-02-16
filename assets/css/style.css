@@ -229,6 +229,10 @@ body{
     width: 100%;
     height: auto;
 }
+.imgPlat{
+    width: 200px;
+    height: 200px;
+}
 
 /* Classes sizing */
 .fit{
