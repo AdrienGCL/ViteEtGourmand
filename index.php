@@ -2,81 +2,81 @@
 
         <main>
             <section class="bg-extra-dark">
-                <div class="row justify-content-center p-t-40">
-                    <article class="col-4 m-r-20 p-0">
-                        <h2 class="row justify-content-center brand-d-sm primary-text">Vite & Gourmand</h2>
-                        <p class="mx-0 m-t-40 p-0 text-d white-text">Vite & Gourmand, traiteur d’exception à Bordeaux depuis 25 ans, est le fruit de la passion et du savoir-faire de Julie et José. Animés par l’amour des beaux produits et du travail bien fait, ils imaginent des créations culinaires raffinées pour sublimer chaque événement.<br><br>Mariages, réceptions privées, repas d’entreprise, fêtes de fin d’année ou célébrations familiales : chaque prestation est conçue comme une expérience sur mesure, alliant élégance, créativité et exigence. Au fil des saisons, la carte évolue pour mettre à l’honneur des produits soigneusement sélectionnés et des associations de saveurs délicates.<br><br>Avec Vite & Gourmand, l’art de recevoir prend toute sa dimension.</p>
+                <div class="row justify-content-center padding-t-l">
+                    <article class="col-4 marging-r-m p-0">
+                        <h2 class="row justify-content-center brand-m primary-text">Vite & Gourmand</h2>
+                        <p class="mx-0 marging-t-l p-0 text white-text">Vite & Gourmand, traiteur d’exception à Bordeaux depuis 25 ans, est le fruit de la passion et du savoir-faire de Julie et José. Animés par l’amour des beaux produits et du travail bien fait, ils imaginent des créations culinaires raffinées pour sublimer chaque événement.<br><br>Mariages, réceptions privées, repas d’entreprise, fêtes de fin d’année ou célébrations familiales : chaque prestation est conçue comme une expérience sur mesure, alliant élégance, créativité et exigence. Au fil des saisons, la carte évolue pour mettre à l’honneur des produits soigneusement sélectionnés et des associations de saveurs délicates.<br><br>Avec Vite & Gourmand, l’art de recevoir prend toute sa dimension.</p>
                     </article>
-                    <div class="col-4 m-l-20 p-0">
+                    <div class="col-4 marging-l-m p-0">
                         <img class="img-main" src="./assets/images/table.jpg" alt="Photographie d'un repas">
                     </div>
                 </div>
-                <div class="row justify-content-center p-t-40">
-                    <div class="btn-d bg-primary p-0 d-flex justify-content-center">
-                        <a class="text-d dark-text text-decoration-underline m-0 p-0" href="">Commander</a>
+                <div class="row justify-content-center padding-t-l">
+                    <div class="btn bg-primary p-0 d-flex justify-content-center">
+                        <a class="text dark-text text-decoration-underline m-0 p-0" href="">Commander</a>
                     </div>
                 </div>
                 <div class="d-flex justify-content-center">
-                    <svg class="col-10 m-t-40 m-b-0 p-0" height="2" xmlns="http://www.w3.org/2000/svg">
+                    <svg class="col-10 marging-t-l marging-b-0 p-0" height="2" xmlns="http://www.w3.org/2000/svg">
                         <line class="separator" x1="0" y1="0" x2="100%" y2="0"/>
                         Sorry, your browser does not support inline SVG.
                     </svg>
                 </div>
             </section>
             <section>
-                <div class="row justify-content-center p-t-40">
-                    <div class="col-4 m-r-20 p-0">
+                <div class="row justify-content-center padding-t-l">
+                    <div class="col-4 marging-r-m p-0">
                         <img class="img-main" src="./assets/images/equipe.jpg" alt="Photographie de l'équipe">
                     </div>
-                    <article class="col-4 m-l-20 p-0">
-                        <h2 class="row justify-content-center headline-d primary-text">L'équipe</h2>
-                        <p class="mx-0 m-t-40 p-0 text-d white-text">Derrière Vite & Gourmand, il y a avant tout une équipe de professionnels passionnés, animés par le goût de l’excellence et le sens du détail.<br><br>À sa tête, Julie et José mettent leur expertise culinaire et leur parfaite connaissance de l’événementiel au service de prestations sur mesure. Leur maîtrise des techniques traditionnelles, alliée à une créativité constamment renouvelée, leur permet d’imaginer des créations élégantes, équilibrées et raffinées.<br><br>Autour d’eux, une brigade engagée et rigoureuse œuvre chaque jour avec précision et exigence. Cuisiniers, pâtissiers et personnel de service partagent des valeurs communes : sélection attentive des produits, maîtrise des savoir-faire, organisation irréprochable et sens du service attentif.<br><br>Chaque événement est préparé avec soin et coordination afin de garantir une expérience fluide, harmonieuse et mémorable. Chez Vite & Gourmand, l’excellence est avant tout un travail d’équipe.</p>
+                    <article class="col-4 marging-l-m p-0">
+                        <h2 class="row justify-content-center headline primary-text">L'équipe</h2>
+                        <p class="mx-0 marging-t-l p-0 text white-text">Derrière Vite & Gourmand, il y a avant tout une équipe de professionnels passionnés, animés par le goût de l’excellence et le sens du détail.<br><br>À sa tête, Julie et José mettent leur expertise culinaire et leur parfaite connaissance de l’événementiel au service de prestations sur mesure. Leur maîtrise des techniques traditionnelles, alliée à une créativité constamment renouvelée, leur permet d’imaginer des créations élégantes, équilibrées et raffinées.<br><br>Autour d’eux, une brigade engagée et rigoureuse œuvre chaque jour avec précision et exigence. Cuisiniers, pâtissiers et personnel de service partagent des valeurs communes : sélection attentive des produits, maîtrise des savoir-faire, organisation irréprochable et sens du service attentif.<br><br>Chaque événement est préparé avec soin et coordination afin de garantir une expérience fluide, harmonieuse et mémorable. Chez Vite & Gourmand, l’excellence est avant tout un travail d’équipe.</p>
                     </article>
                 </div>
-                <div class="row justify-content-center p-t-40">
-                    <div class="btn-d bg-primary p-0 d-flex justify-content-center">
-                        <a class="text-d dark-text text-decoration-underline m-0 p-0" href="">Commander</a>
+                <div class="row justify-content-center padding-t-l">
+                    <div class="btn bg-primary p-0 d-flex justify-content-center">
+                        <a class="text dark-text text-decoration-underline m-0 p-0" href="">Commander</a>
                     </div>
                 </div>
                 <div class="d-flex justify-content-center">
-                    <svg class="col-10 m-t-40 m-b-0 p-0" height="2" xmlns="http://www.w3.org/2000/svg">
+                    <svg class="col-10 marging-t-l marging-b-0 p-0" height="2" xmlns="http://www.w3.org/2000/svg">
                         <line class="separator" x1="0" y1="0" x2="100%" y2="0"/>
                         Sorry, your browser does not support inline SVG.
                     </svg>
                 </div>
             </section>
 
-            <section class="p-t-40 bg-extra-dark">
-                <h2 class="row justify-content-center headline-d primary-text m-0">Ce que nos clients en pensent</h2>
+            <section class="padding-t-l bg-extra-dark">
+                <h2 class="row justify-content-center headline primary-text m-0">Ce que nos clients en pensent</h2>
                 <div>
                     <div id="mySlideshow" class="slideshow p-0">
                         <div class="d-flex">
-                            <div class="slideshow-item full-width-d slideshow-active">
-                                <div class="d-flex full-width-d justify-content-center">
-                                    <div class="bg-primary p-10 m-t-40 radius-5">
-                                        <h3 class="headline-d dark-text m-0 m-b-10">Claire D. - 5/5</h3>
-                                        <div class="bg-light p-20 radius-5">
-                                            <p class="m-0 p-0 text-d white-text text-center">"Une prestation exceptionnelle pour notre mariage. Les plats étaient aussi beaux que délicieux, et le service irréprochable. Nos invités nous en parlent encore !"</p>
+                            <div class="slideshow-item full-width slideshow-active">
+                                <div class="d-flex full-width justify-content-center">
+                                    <div class="bg-primary padding-s marging-t-l radius-m">
+                                        <h3 class="headline dark-text m-0 marging-b-s">Claire D. - 5/5</h3>
+                                        <div class="bg-light padding-m radius-m">
+                                            <p class="m-0 p-0 text white-text text-center">"Une prestation exceptionnelle pour notre mariage. Les plats étaient aussi beaux que délicieux, et le service irréprochable. Nos invités nous en parlent encore !"</p>
                                         </div>
                                     </div>
                                 </div>
                             </div>
-                            <div class="slideshow-item full-width-d">
-                                <div class="d-flex full-width-d justify-content-center">
-                                    <div class="bg-primary p-10 m-t-40 radius-5">
-                                        <h3 class="headline-d dark-text m-0 m-b-10">Marc L. - 5/5</h3>
-                                        <div class="bg-light p-20 radius-5">
-                                            <p class="m-0 p-0 text-d white-text text-center">"Nous faisons régulièrement appel à Vite & Gourmand pour nos repas d’entreprise. Organisation parfaite, grande qualité des produits et équipe très professionnelle."</p>
+                            <div class="slideshow-item full-width">
+                                <div class="d-flex full-width justify-content-center">
+                                    <div class="bg-primary padding-s marging-t-l radius-m">
+                                        <h3 class="headline dark-text m-0 marging-b-s">Marc L. - 5/5</h3>
+                                        <div class="bg-light padding-m radius-m">
+                                            <p class="m-0 p-0 text white-text text-center">"Nous faisons régulièrement appel à Vite & Gourmand pour nos repas d’entreprise. Organisation parfaite, grande qualité des produits et équipe très professionnelle."</p>
                                         </div>
                                     </div>
                                 </div>
                             </div>
-                            <div class="slideshow-item full-width-d">
-                                <div class="d-flex full-width-d justify-content-center">
-                                    <div class="bg-primary p-10 m-t-40 radius-5">
-                                        <h3 class="headline-d dark-text m-0 m-b-10">Sophie R. - 4,5/5</h3>
-                                        <div class="bg-light p-20 radius-5">
-                                            <p class="m-0 p-0 text-d white-text text-center">"Un menu raffiné et parfaitement adapté à nos attentes pour les fêtes de fin d’année. Très bon accompagnement et excellente communication."</p>
+                            <div class="slideshow-item full-width">
+                                <div class="d-flex full-width justify-content-center">
+                                    <div class="bg-primary padding-s marging-t-l radius-m">
+                                        <h3 class="headline dark-text m-0 marging-b-s">Sophie R. - 4,5/5</h3>
+                                        <div class="bg-light padding-m radius-m">
+                                            <p class="m-0 p-0 text white-text text-center">"Un menu raffiné et parfaitement adapté à nos attentes pour les fêtes de fin d’année. Très bon accompagnement et excellente communication."</p>
                                         </div>
                                     </div>
                                 </div>
@@ -96,7 +96,7 @@
                     </div>
                 </div>
                 <div class="d-flex justify-content-center">
-                    <svg class="col-10 m-b-0 p-0" height="2" xmlns="http://www.w3.org/2000/svg">
+                    <svg class="col-10 marging-b-0 p-0" height="2" xmlns="http://www.w3.org/2000/svg">
                         <line class="separator" x1="0" y1="0" x2="100%" y2="0"/>
                         Sorry, your browser does not support inline SVG.
                     </svg>
