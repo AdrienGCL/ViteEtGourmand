@@ -36,10 +36,10 @@
                             <a class="col text white-text m-0 fit" href="">Commande n° xxxxx du xx/xx/xxxx</a>
                             <p class="col text white-text m-0 fit text-center">En attente</p>
                             <div class="col d-flex m-0 justify-content-end">
-                                <div class="modify-btn primary-border padding-xs radius-m">
+                                <div class="modify-btn primary-border radius-m">
                                     <i class="bi bi-pencil-fill primary-text fit"></i>
                                 </div>
-                                <div class="modify-btn border-tertiary padding-xs radius-m margin-l-s">
+                                <div class="modify-btn border-tertiary radius-m margin-l-s">
                                     <i class="bi bi-trash-fill tertiary-text fit"></i>
                                 </div>
                             </div>
@@ -92,11 +92,24 @@
                     </div>
                 </div>
             </div>
-            <div class="d-flex justify-content-center margin-t-l">
-                <svg class="col-10 margin-b-0 p-0" height="2" xmlns="http://www.w3.org/2000/svg">
-                    <line class="separator" x1="0" y1="0" x2="100%" y2="0"/>
-                    Sorry, your browser does not support inline SVG.
-                </svg>
+            <div class="row justify-content-center bg-extra-dark margin-t-l d-none">
+                <div class="col-auto margin-t-l margin-b-l">
+                    <p class="headline primary-text text-center m-0">Prénom Nom</p>
+                    <p class="text white-text text-center margin-t-s">N° de téléphone : 06XXXXXXXX</p>
+                    <p class="text white-text text-center margin-t-s">Adresse mail : username@mail.com</p>
+                    <p class="text white-text text-center margin-t-s">Mot de passe : **********</p>
+                    <div class="row justify-content-center margin-t-l">
+                        <div class="modify-btn primary-border radius-m">
+                            <i class="bi bi-pencil-fill primary-text fit"></i>
+                        </div>
+                    </div>
+                </div>
+                <div class="d-flex justify-content-center margin-t-l">
+                    <svg class="col-10 margin-b-0 p-0" height="2" xmlns="http://www.w3.org/2000/svg">
+                        <line class="separator" x1="0" y1="0" x2="100%" y2="0"/>
+                        Sorry, your browser does not support inline SVG.
+                    </svg>
+                </div>
             </div>
         </main>
 
