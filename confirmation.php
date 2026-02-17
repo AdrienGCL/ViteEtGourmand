@@ -12,7 +12,7 @@
             </div>
             <div class="row justify-content-center margin-t-l">
                 <div class="bouton bg-primary p-0 d-flex justify-content-center">
-                    <a class="text dark-text text-decoration-underline m-0 p-0" href="">Mon compte</a>
+                    <a class="text dark-text text-decoration-underline m-0 p-0" href="./espace_perso.php">Mon compte</a>
                 </div>
             </div>
             <div class="d-flex justify-content-center margin-t-l">

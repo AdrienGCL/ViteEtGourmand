@@ -21,7 +21,7 @@
                             <p class="col-auto headline primary-text m-0">En attente de validation (nb)</p>
                         </div>
                         <div class="row margin-b-s align-items-center justify-content-between">
-                            <a class="col text white-text m-0 fit" href="">Commande n° xxxxx du xx/xx/xxxx</a>
+                            <a class="col text white-text m-0 fit" href="./detail_commande.php">Commande n° xxxxx du xx/xx/xxxx</a>
                             <p class="col text white-text m-0 fit text-center">En attente</p>
                             <div class="col d-flex m-0 justify-content-end">
                                 <div class="modify-btn primary-border padding-xs radius-m">
