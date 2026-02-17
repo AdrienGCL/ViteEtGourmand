@@ -116,7 +116,7 @@
                 </div>
                 <div class="row justify-content-center margin-t-l">
                     <div class="col-auto">
-                        <input class="customSubmit btn text text-decoration-underline" type="submit" name="Commander" value="Commander">
+                        <input class="customSubmit bouton text text-decoration-underline" type="submit" name="Commander" value="Commander">
                     </div>
                 </div>
             </form>

@@ -35,7 +35,7 @@
                 </div>
                 <div class="row justify-content-center margin-t-l">
                     <div class="col-auto">
-                        <input class="customSubmit btn text text-decoration-underline" type="submit" name="Signin" value="S'inscrire">
+                        <input class="customSubmit bouton text text-decoration-underline" type="submit" name="Signin" value="S'inscrire">
                     </div>
                 </div>
             </form>

@@ -43,7 +43,7 @@
                     <p class="text tertiary-text col-auto m-0">Stock disponible</p>
                 </div>
                 <div class="row justify-content-center margin-t-s">
-                    <div class="btn bg-primary p-0 d-flex justify-content-center">
+                    <div class="bouton bg-primary p-0 d-flex justify-content-center">
                         <a class="text dark-text text-decoration-underline m-0 p-0" href="">Commander</a>
                     </div>
                 </div>

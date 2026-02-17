@@ -252,11 +252,23 @@ body{
 }
 
 /* Classes de boutons */
-.btn{
+.bouton{
     width: 120px;
     height: 30px;
     border-radius: 5px;
     line-height: 30px;
+    cursor: pointer;
+}
+.modify-btn{
+    width: 32px;
+    height: 32px;
+    display: flex;
+    justify-content: center;
+    cursor: pointer;
+}
+.modify-btn i{
+    font-size: 14px;
+    text-align: center;
 }
 
 .filter{
@@ -277,7 +289,7 @@ body{
 .border-tertiary{
     border: 1px solid var(--tertiary);
 }
-.border-primary{
+.primary-border{
     border: 1px solid var(--primary);
 }
 

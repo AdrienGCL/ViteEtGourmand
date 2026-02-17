@@ -43,7 +43,7 @@
                             </div>
                         </div>
                         <div class="row justify-content-center padding-t-m">
-                            <div class="btn bg-dark p-0 d-flex justify-content-center">
+                            <div class="bouton bg-dark p-0 d-flex justify-content-center">
                                 <a class="text primary-text text-decoration-underline m-0 p-0" href="">Rechercher</a>
                             </div>
                         </div>

@@ -31,7 +31,7 @@
                         <a href="./menus.php" class="nav-link primary-text py-0 px-5">Nos Menus</a>
                     </li>
                     <li class="nav-item">
-                        <a href="#" class="nav-link primary-text py-0 px-5">Mon Espace</a>
+                        <a href="./espace_perso.php" class="nav-link primary-text py-0 px-5">Mon Espace</a>
                     </li>
                     <li class="nav-item">
                         <a href="./connexion.php" class="nav-link primary-text py-0 px-5">Connexion</a>

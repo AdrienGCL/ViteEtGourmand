@@ -12,7 +12,7 @@
                     </div>
                 </div>
                 <div class="row justify-content-center padding-t-l">
-                    <div class="btn bg-primary p-0 d-flex justify-content-center">
+                    <div class="bouton bg-primary p-0 d-flex justify-content-center">
                         <a class="text dark-text text-decoration-underline m-0 p-0" href="">Commander</a>
                     </div>
                 </div>
@@ -34,7 +34,7 @@
                     </article>
                 </div>
                 <div class="row justify-content-center padding-t-l">
-                    <div class="btn bg-primary p-0 d-flex justify-content-center">
+                    <div class="bouton bg-primary p-0 d-flex justify-content-center">
                         <a class="text dark-text text-decoration-underline m-0 p-0" href="">Commander</a>
                     </div>
                 </div>
