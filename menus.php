@@ -5,7 +5,7 @@
                 <div class="row margin-l-0 margin-t-l justify-content-center">
                     <div class="col-10 m-0 p-0">
                         <div class="filter d-flex justify-content-center p-0 tertiary-text">
-                            <p class="text-decoration-underline margin-l-s">Filtrer</p>
+                            <p class="text text-decoration-underline margin-l-s">Filtrer</p>
                             <i class="bi bi-chevron-up margin-l-s margin-r-s"></i>
                         </div>
                     </div>

@@ -48,10 +48,10 @@
 
             <section class="padding-t-l bg-extra-dark">
                 <h2 class="row justify-content-center headline primary-text m-0">Ce que nos clients en pensent</h2>
-                <div>
-                    <div id="mySlideshow" class="slideshow p-0">
+                <div class="">
+                    <div id="mySlideshow" class="slideshow p-0 overflow-x-hidden">
                         <div class="d-flex">
-                            <div class="slideshow-item full-width slideshow-active">
+                            <div class="slideshow-item full-width slideshow-active margin-l-l">
                                 <div class="d-flex full-width justify-content-center">
                                     <div class="bg-primary padding-s margin-t-l radius-m">
                                         <h3 class="headline dark-text m-0 margin-b-s">Claire D. - 5/5</h3>

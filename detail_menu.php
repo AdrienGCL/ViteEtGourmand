@@ -5,7 +5,7 @@
                 <div class="col-10 m-0 p-0">
                     <div class="filter d-flex justify-content-center p-0 tertiary-text">
                         <i class="bi bi-chevron-left margin-l-s"></i>
-                        <a class="text-decoration-underline margin-l-s margin-r-s tertiary-text" href="./menus.php">Revenir aux résultats</a>
+                        <a class="text text-decoration-underline margin-l-s margin-r-s tertiary-text" href="./menus.php">Revenir aux résultats</a>
                     </div>
                 </div>
             </div>
@@ -22,10 +22,10 @@
                     <p class="text white-text col-auto m-0">Description du menu, des différents plats.</p>
                 </div>
                 <div class="row justify-content-center margin-t-l">
-                    <img class="imgPlat p-0 mx-3" src="./assets/images/placeholder.png" alt="photo d'un plat">
-                    <img class="imgPlat p-0 mx-3" src="./assets/images/placeholder.png" alt="photo d'un plat">
-                    <img class="imgPlat p-0 mx-3" src="./assets/images/placeholder.png" alt="photo d'un plat">
-                    <img class="imgPlat p-0 mx-3" src="./assets/images/placeholder.png" alt="photo d'un plat">
+                    <img class="imgPlat p-0 mx-2" src="./assets/images/placeholder.png" alt="photo d'un plat">
+                    <img class="imgPlat p-0 mx-2" src="./assets/images/placeholder.png" alt="photo d'un plat">
+                    <img class="imgPlat p-0 mx-2" src="./assets/images/placeholder.png" alt="photo d'un plat">
+                    <img class="imgPlat p-0 mx-2" src="./assets/images/placeholder.png" alt="photo d'un plat">
                 </div>
                 <div class="row justify-content-center margin-t-l">
                     <p class="text white-text col-auto m-0">Liste des plats.</p>

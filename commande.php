@@ -1,7 +1,7 @@
 <?php require_once __DIR__. "/templates/header.php"; ?>
 
         <main>
-            <form id="commandeForm" class="row justify-content-center" action="" method="post">
+            <form id="commandeForm" class="row text justify-content-center" action="" method="post">
                 <div class="row justify-content-center margin-t-l">
                     <p class="col-auto headline primary-text m-0">Votre commande</p>
                 </div>
@@ -84,7 +84,7 @@
                 <div class="row justify-content-center">
                     <div class="col-4">
                         <div class="row justify-content-center margin-t-l">
-                            <p class="col-auto headline primary-text m-0">Récapitulatif de votre commande</p>
+                            <p class="col-auto headline primary-text text-center m-0">Récapitulatif de votre commande</p>
                         </div>
                         <div class="row justify-content-between margin-t-l">
                             <p class="col-auto text white-text m-0">Menu choisis</p>

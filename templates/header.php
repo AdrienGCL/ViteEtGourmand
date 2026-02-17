@@ -23,18 +23,18 @@
                 </svg>
             </div>
             <div class="d-flex justify-content-center margin-t-l">
-                <ul class="nav nav-pills headline">
+                <ul class="nav nav-pills headline w-100 justify-content-around padding-l-l padding-r-l">
                     <li class="nav-item">
-                        <a href="./index.php" class="nav-link primary-text py-0 px-5" aria-current="page">Accueil</a>
+                        <a href="./index.php" class="nav-link primary-text p-0" aria-current="page">Accueil</a>
                     </li>
                     <li class="nav-item">
-                        <a href="./menus.php" class="nav-link primary-text py-0 px-5">Nos Menus</a>
+                        <a href="./menus.php" class="nav-link primary-text p-0">Nos Menus</a>
                     </li>
                     <li class="nav-item">
-                        <a href="./espace_perso.php" class="nav-link primary-text py-0 px-5">Mon Espace</a>
+                        <a href="./espace_perso.php" class="nav-link primary-text p-0">Mon Espace</a>
                     </li>
                     <li class="nav-item">
-                        <a href="./connexion.php" class="nav-link primary-text py-0 px-5">Connexion</a>
+                        <a href="./connexion.php" class="nav-link primary-text p-0">Connexion</a>
                     </li>
                     <!-- <li class="nav-item">
                         <a href="#" class="nav-link primary-text py-0 px-5">Nous Contacter</a>

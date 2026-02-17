@@ -1,7 +1,7 @@
 <?php require_once __DIR__. "/templates/header.php"; ?>
 
         <main>
-            <form id="connexionForm" class="row justify-content-center" action="" method="post">
+            <form id="connexionForm" class="row text justify-content-center" action="" method="post">
                 <div class="row justify-content-center margin-t-l">
                     <p class="col-auto headline primary-text m-0">Connexion</p>
                 </div>
