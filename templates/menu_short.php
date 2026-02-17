@@ -1,6 +1,6 @@
-<div class="menuShort marging-t-l">
+<div class="menuShort margin-t-l">
     <div class="row justify-content-center">
-        <p class="headline primary-text col-auto marging-b-s">Nom du menu</p>
+        <p class="headline primary-text col-auto margin-b-s">Nom du menu</p>
     </div>
     <div class="row justify-content-center">
         <p class="text white-text col-auto m-0">Description du menu, des différents plats.</p>
@@ -15,7 +15,7 @@
         </div>
     </div>
     <div class="d-flex justify-content-center">
-        <svg class="col-10 marging-t-l marging-b-0 p-0" height="2" xmlns="http://www.w3.org/2000/svg">
+        <svg class="col-10 margin-t-l margin-b-0 p-0" height="2" xmlns="http://www.w3.org/2000/svg">
             <line class="separator" x1="0" y1="0" x2="100%" y2="0"/>
             Sorry, your browser does not support inline SVG.
         </svg>

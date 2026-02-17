@@ -18,11 +18,11 @@
                 <h1 class="brand-l primary-text m-0">Vite & Gourmand</h1>
             </div>
             <div class="d-flex justify-content-center">
-                <svg class="col-10 marging-t-l p-0" height="2" xmlns="http://www.w3.org/2000/svg">
+                <svg class="col-10 margin-t-l p-0" height="2" xmlns="http://www.w3.org/2000/svg">
                     <line class="separator" x1="0" y1="0" x2="100%" y2="0"/>
                 </svg>
             </div>
-            <div class="d-flex justify-content-center marging-t-l">
+            <div class="d-flex justify-content-center margin-t-l">
                 <ul class="nav nav-pills headline">
                     <li class="nav-item">
                         <a href="./index.php" class="nav-link primary-text py-0 px-5" aria-current="page">Accueil</a>
@@ -42,7 +42,7 @@
                 </ul>
             </div>
             <div class="d-flex justify-content-center">
-                <svg class="col-10 marging-t-l marging-b-0 p-0" height="2" xmlns="http://www.w3.org/2000/svg">
+                <svg class="col-10 margin-t-l margin-b-0 p-0" height="2" xmlns="http://www.w3.org/2000/svg">
                     <line class="separator" x1="0" y1="0" x2="100%" y2="0"/>
                     Sorry, your browser does not support inline SVG.
                 </svg>

@@ -28,6 +28,7 @@
 body{
     overflow-x: hidden;
     min-height: 100vh;
+    font-family: var(--pt-sans);
 }
 
 /* Classes de texte */
@@ -98,17 +99,17 @@ body{
     color: var(--white);
 }
 
-/* Classes de marging/padding */
-.marging-l-0{
+/* Classes de margin/padding */
+.margin-l-0{
     margin-left: 0px;
 }
-.marging-r-0{
+.margin-r-0{
     margin-right: 0px;
 }
-.marging-t-0{
+.margin-t-0{
     margin-top: 0px;
 }
-.marging-b-0{
+.margin-b-0{
     margin-bottom: 0px;
 }
 
@@ -125,16 +126,23 @@ body{
     padding-bottom: 0px;
 }
 
-.marging-l-s{
+.margin-xs{
+    margin: 5px;
+}
+.padding-xs{
+    padding: 5px;
+}
+
+.margin-l-s{
     margin-left: 10px;
 }
-.marging-r-s{
+.margin-r-s{
     margin-right: 10px;
 }
-.marging-t-s{
+.margin-t-s{
     margin-top: 10px;
 }
-.marging-b-s{
+.margin-b-s{
     margin-bottom: 10px !important;
 }
 
@@ -154,19 +162,19 @@ body{
     padding-bottom: 10px;
 }
 
-.marging-m{
+.margin-m{
     margin: 20px;
 }
-.marging-l-m{
+.margin-l-m{
     margin-left: 20px;
 }
-.marging-r-m{
+.margin-r-m{
     margin-right: 20px;
 }
-.marging-t-m{
+.margin-t-m{
     margin-top: 20px;
 }
-.marging-b-m{
+.margin-b-m{
     margin-bottom: 20px;
 }
 
@@ -186,19 +194,19 @@ body{
     padding-bottom: 20px;
 }
 
-.marging-l{
+.margin-l{
     margin: 40px;
 }
-.marging-l-l{
+.margin-l-l{
     margin-left: 40px;
 }
-.marging-r-l{
+.margin-r-l{
     margin-right: 40px;
 }
-.marging-t-l{
+.margin-t-l{
     margin-top: 40px;
 }
-.marging-b-l{
+.margin-b-l{
     margin-bottom: 40px;
 }
 

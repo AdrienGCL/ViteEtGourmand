@@ -2,15 +2,15 @@
 
         <main>
             <section>
-                <div class="row marging-l-0 marging-t-l justify-content-center">
+                <div class="row margin-l-0 margin-t-l justify-content-center">
                     <div class="col-10 m-0 p-0">
                         <div class="filter d-flex justify-content-center p-0 tertiary-text">
-                            <p class="text-decoration-underline marging-l-s">Filtrer</p>
-                            <i class="bi bi-chevron-up marging-l-s marging-r-s"></i>
+                            <p class="text-decoration-underline margin-l-s">Filtrer</p>
+                            <i class="bi bi-chevron-up margin-l-s margin-r-s"></i>
                         </div>
                     </div>
                 </div>
-                <div class="row marging-l-0 marging-r-0 padding-m justify-content-center d-none">
+                <div class="row margin-l-0 margin-r-0 padding-m justify-content-center d-none">
                     <div class="col-10 m-0 p-0">
                         <div class="row m-0 p-0 justify-content-around">
                             <div class="col-auto d-flex bg-white padding-s m-0 radius-m border-tertiary">
