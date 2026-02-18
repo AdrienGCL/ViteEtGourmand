@@ -11,36 +11,32 @@
             </div>
             <div class="bg-extra-dark margin-t-l padding-t-l">
                 <div class="row justify-content-center">
-                    <p class="headline primary-text col-auto margin-b-s">Nom du menu</p>
+                    <p id="menuTitre" class="headline primary-text col-auto margin-b-s">Nom du menu</p>
                 </div>
                 <div class="row justify-content-center">
-                    <p class="text white-text col-auto m-0 mx-3">Quantité minimum</p>
-                    <p class="text white-text col-auto m-0 mx-3">Thème</p>
-                    <p class="text white-text col-auto m-0 mx-3">Régime</p>
+                    <p id="menuNbMin" class="text white-text col-auto m-0 mx-3">Quantité minimum</p>
+                    <p id="menuTheme" class="text white-text col-auto m-0 mx-3">Thème</p>
+                    <p id="menuRegime" class="text white-text col-auto m-0 mx-3">Régime</p>
                 </div>
                 <div class="row justify-content-center margin-t-l">
-                    <p class="text white-text col-auto m-0">Description du menu, des différents plats.</p>
+                    <p id="menuDescription" class="text white-text col-auto m-0">Description du menu, des différents plats.</p>
+                </div>
+                <div id="menuImg" class="row justify-content-center margin-t-l">
                 </div>
                 <div class="row justify-content-center margin-t-l">
-                    <img class="imgPlat p-0 mx-2" src="./assets/images/placeholder.png" alt="photo d'un plat">
-                    <img class="imgPlat p-0 mx-2" src="./assets/images/placeholder.png" alt="photo d'un plat">
-                    <img class="imgPlat p-0 mx-2" src="./assets/images/placeholder.png" alt="photo d'un plat">
-                    <img class="imgPlat p-0 mx-2" src="./assets/images/placeholder.png" alt="photo d'un plat">
+                    <p id="menuPlats" class="text white-text text-center col-auto m-0">Liste des plats.</p>
                 </div>
                 <div class="row justify-content-center margin-t-l">
-                    <p class="text white-text col-auto m-0">Liste des plats.</p>
+                    <p id="menuAllergenes" class="text white-text text-center col-auto m-0">Liste des allergènes :</p>
                 </div>
                 <div class="row justify-content-center margin-t-l">
-                    <p class="text white-text col-auto m-0">Liste des allergènes.</p>
+                    <p id="menuConditions" class="text white-text text-center col-auto m-0">Conditions particulières.</p>
                 </div>
                 <div class="row justify-content-center margin-t-l">
-                    <p class="text white-text col-auto m-0">Conditions particulières.</p>
+                    <p id="menuPrix" class="headline secondary-text col-auto m-0">Prix/pers</p>
                 </div>
                 <div class="row justify-content-center margin-t-l">
-                    <p class="headline secondary-text col-auto m-0">Prix/pers</p>
-                </div>
-                <div class="row justify-content-center margin-t-l">
-                    <p class="text tertiary-text col-auto m-0">Stock disponible</p>
+                    <p id="menuStock" class="text tertiary-text col-auto m-0">Stock disponible</p>
                 </div>
                 <div class="row justify-content-center margin-t-s">
                     <div class="bouton bg-primary p-0 d-flex justify-content-center">
@@ -55,5 +51,11 @@
                 </div>
             </div>
         </main>
+
+        <script src="./assets/js/menus.js"></script>
+
+        <script>
+            initMenus();
+        </script>
 
 <?php require_once __DIR__. "/templates/footer.php"; ?>

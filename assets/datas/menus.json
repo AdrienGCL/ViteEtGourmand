@@ -1,0 +1,462 @@
+[
+    {
+        "menu_id": "01",
+        "titre": "Tradition Gourmande",
+        "description": "Un menu équilibré et convivial, idéal pour tous types d’événements.",
+        "theme": "Classique",
+        "regime": "Classique",
+        "prix_par_personne": 15,
+        "personnes_min": 10,
+        "stock": 45,
+        "entree": "Salade de chèvre chaud",
+        "plat": "Suprême de poulet rôti, pommes grenailles",
+        "dessert": "Tarte aux pommes maison",
+        "allergenes": [
+            "Lait",
+            "Gluten"
+        ],
+        "conditions": "Commande 48h à l’avance",
+        "images": [
+            "salade_chevre_chaud.png",
+            "supreme_poulet_roti.png",
+            "tarte_pommes.png"
+        ]
+    },
+    {
+        "menu_id": "02",
+        "titre": "Saveurs Végétariennes",
+        "description": "Une alternative végétarienne savoureuse et colorée.",
+        "theme": "Classique",
+        "regime": "Végétarien",
+        "prix_par_personne": 14,
+        "personnes_min": 8,
+        "stock": 60,
+        "entree": "Velouté de potimarron",
+        "plat": "Lasagnes aux légumes grillés",
+        "dessert": "Mousse au chocolat",
+        "allergenes": [
+            "Lait",
+            "Gluten"
+        ],
+        "conditions": "Conservation au frais (+4°C)",
+        "images": [
+            "veloute_potimarron.png",
+            "lasagnes_legumes.png",
+            "mousse_chocolat.png"
+        ]
+    },
+    {
+        "menu_id": "03",
+        "titre": "Festin de Noël",
+        "description": "Un menu festif aux saveurs traditionnelles de fin d’année.",
+        "theme": "Noël",
+        "regime": "Classique",
+        "prix_par_personne": 25,
+        "personnes_min": 12,
+        "stock": 20,
+        "entree": "Foie gras de canard, chutney de figues",
+        "plat": "Dinde farcie aux marrons",
+        "dessert": "Bûche chocolat-praliné",
+        "allergenes": [
+            "Fruits à coque",
+            "Lait",
+            "Œufs"
+        ],
+        "conditions": "Délai de préparation 72h",
+        "images": [
+            "foie_gras_figues.png",
+            "dinde_marrons.png",
+            "buche_chocolat_praline.png"
+        ]
+    },
+    {
+        "menu_id": "04",
+        "titre": "Noël Végétarien",
+        "description": "Un menu de fêtes sans viande, tout en gourmandise.",
+        "theme": "Noël",
+        "regime": "Végétarien",
+        "prix_par_personne": 22,
+        "personnes_min": 10,
+        "stock": 15,
+        "entree": "Feuilleté aux champignons",
+        "plat": "Risotto aux cèpes",
+        "dessert": "Bûche aux fruits rouges",
+        "allergenes": [
+            "Gluten",
+            "Lait"
+        ],
+        "conditions": "À consommer sous 24h",
+        "images": [
+            "feuillete_champignons.png",
+            "risotto_cepes.png",
+            "buche_fruits_rouges.png"
+        ]
+    },
+    {
+        "menu_id": "05",
+        "titre": "Printemps Pascal",
+        "description": "Des saveurs douces et printanières pour célébrer Pâques.",
+        "theme": "Pâques",
+        "regime": "Classique",
+        "prix_par_personne": 23,
+        "personnes_min": 12,
+        "stock": 18,
+        "entree": "Œufs mimosa",
+        "plat": "Gigot d’agneau, légumes de saison",
+        "dessert": "Nid de Pâques au chocolat",
+        "allergenes": [
+            "Œufs",
+            "Lait"
+        ],
+        "conditions": "Préparation 48h minimum",
+        "images": [
+            "oeufs_mimosa.png",
+            "gigot_agneau.png",
+            "nid_paques_chocolat.png"
+        ]
+    },
+    {
+        "menu_id": "06",
+        "titre": "Pâques Végétal",
+        "description": "Un menu pascal 100 % végétal.",
+        "theme": "Pâques",
+        "regime": "Végan",
+        "prix_par_personne": 16,
+        "personnes_min": 8,
+        "stock": 50,
+        "entree": "Houmous et crudités",
+        "plat": "Curry de légumes et pois chiches",
+        "dessert": "Compote de fruits frais",
+        "allergenes": [
+            "Sésame"
+        ],
+        "conditions": "Stockage à +4°C",
+        "images": [
+            "houmous_crudites.png",
+            "curry_legumes.png",
+            "compote_fruits.png"
+        ]
+    },
+    {
+        "menu_id": "07",
+        "titre": "Événement Prestige",
+        "description": "Menu raffiné pour réceptions et soirées professionnelles.",
+        "theme": "Evènements",
+        "regime": "Classique",
+        "prix_par_personne": 25,
+        "personnes_min": 20,
+        "stock": 10,
+        "entree": "Tartare de saumon",
+        "plat": "Filet de bœuf sauce morilles",
+        "dessert": "Entremets vanille-framboise",
+        "allergenes": [
+            "Poisson",
+            "Lait"
+        ],
+        "conditions": "Livraison incluse, délai 72h",
+        "images": [
+            "tartare_saumon.png",
+            "filet_boeuf_morilles.png",
+            "entremets_vanille_framboise.png"
+        ]
+    },
+    {
+        "menu_id": "08",
+        "titre": "Buffet Convivial",
+        "description": "Menu simple et efficace pour grands groupes.",
+        "theme": "Evènements",
+        "regime": "Classique",
+        "prix_par_personne": 12,
+        "personnes_min": 30,
+        "stock": 80,
+        "entree": "Salade de pâtes",
+        "plat": "Sauté de volaille",
+        "dessert": "Brownie chocolat",
+        "allergenes": [
+            "Gluten",
+            "Œufs",
+            "Lait"
+        ],
+        "conditions": "Vaisselle non incluse",
+        "images": [
+            "salade_pates.png",
+            "saute_volaille.png",
+            "brownie_chocolat.png"
+        ]
+    },
+    {
+        "menu_id": "09",
+        "titre": "Menu Fraîcheur",
+        "description": "Léger et équilibré pour événements estivaux.",
+        "theme": "Classique",
+        "regime": "Végétarien",
+        "prix_par_personne": 13,
+        "personnes_min": 10,
+        "stock": 55,
+        "entree": "Gaspacho de tomates",
+        "plat": "Quiche aux légumes",
+        "dessert": "Salade de fruits frais",
+        "allergenes": [
+            "Œufs",
+            "Gluten",
+            "Lait"
+        ],
+        "conditions": "À maintenir au frais",
+        "images": [
+            "gaspacho_tomate.png",
+            "quiche_legumes.png",
+            "salade_fruits.png"
+        ]
+    },
+    {
+        "menu_id": "10",
+        "titre": "Menu Vegan Urbain",
+        "description": "Cuisine végétale moderne et savoureuse.",
+        "theme": "Evènements",
+        "regime": "Végan",
+        "prix_par_personne": 18,
+        "personnes_min": 10,
+        "stock": 40,
+        "entree": "Taboulé libanais",
+        "plat": "Burger végan",
+        "dessert": "Cake citron végétal",
+        "allergenes": [
+            "Gluten"
+        ],
+        "conditions": "Consommation sous 24h",
+        "images": [
+            "taboule_libanais.png",
+            "burger_vegan.png",
+            "cake_citron_vegan.png"
+        ]
+    },
+    {
+        "menu_id": "11",
+        "titre": "Classique Français",
+        "description": "Les incontournables de la cuisine française.",
+        "theme": "Classique",
+        "regime": "Classique",
+        "prix_par_personne": 20,
+        "personnes_min": 12,
+        "stock": 30,
+        "entree": "Soupe à l’oignon",
+        "plat": "Boeuf bourguignon",
+        "dessert": "Crème brûlée",
+        "allergenes": [
+            "Lait",
+            "Gluten"
+        ],
+        "conditions": "Réchauffage nécessaire",
+        "images": [
+            "soupe_oignon.png",
+            "boeuf_bourguignon.png",
+            "creme_brulee.png"
+        ]
+    },
+    {
+        "menu_id": "12",
+        "titre": "Menu Enfants",
+        "description": "Menu simple et apprécié des plus jeunes.",
+        "theme": "Evènements",
+        "regime": "Classique",
+        "prix_par_personne": 10,
+        "personnes_min": 15,
+        "stock": 90,
+        "entree": "Carottes râpées",
+        "plat": "Nuggets de poulet",
+        "dessert": "Yaourt sucré",
+        "allergenes": [
+            "Lait",
+            "Gluten"
+        ],
+        "conditions": "Portions adaptées enfants",
+        "images": [
+            "carottes_rapees.png",
+            "nuggets_poulet.png",
+            "yaourt_sucre.png"
+        ]
+    },
+    {
+        "menu_id": "13",
+        "titre": "Menu Méditerranéen",
+        "description": "Saveurs du sud et cuisine ensoleillée.",
+        "theme": "Classique",
+        "regime": "Végétarien",
+        "prix_par_personne": 17,
+        "personnes_min": 10,
+        "stock": 35,
+        "entree": "Bruschetta tomate",
+        "plat": "Ratatouille maison",
+        "dessert": "Panna cotta",
+        "allergenes": [
+            "Lait",
+            "Gluten"
+        ],
+        "conditions": "À conserver au frais",
+        "images": [
+            "bruschetta_tomate.png",
+            "ratatouille.png",
+            "panna_cotta.png"
+        ]
+    },
+    {
+        "menu_id": "14",
+        "titre": "Menu Prestige Noël",
+        "description": "Menu haut de gamme pour repas de fin d’année.",
+        "theme": "Noël",
+        "regime": "Classique",
+        "prix_par_personne": 25,
+        "personnes_min": 15,
+        "stock": 12,
+        "entree": "Saint-Jacques poêlées",
+        "plat": "Chapon rôti",
+        "dessert": "Opéra au chocolat",
+        "allergenes": [
+            "Poisson",
+            "Lait",
+            "Gluten"
+        ],
+        "conditions": "Préparation 72h",
+        "images": [
+            "saint_jacques.png",
+            "chapon_roti.png",
+            "opera_chocolat.png"
+        ]
+    },
+    {
+        "menu_id": "15",
+        "titre": "Menu Printanier",
+        "description": "Fraîcheur et légèreté de saison.",
+        "theme": "Pâques",
+        "regime": "Végétarien",
+        "prix_par_personne": 15,
+        "personnes_min": 8,
+        "stock": 50,
+        "entree": "Asperges vinaigrette",
+        "plat": "Omelette aux fines herbes",
+        "dessert": "Fraises au sucre",
+        "allergenes": [
+            "Œufs"
+        ],
+        "conditions": "À consommer rapidement",
+        "images": [
+            "asperges_vinaigrette.png",
+            "omelette_fines_herbes.png",
+            "fraises_sucre.png"
+        ]
+    },
+    {
+        "menu_id": "16",
+        "titre": "Menu Campagnard",
+        "description": "Cuisine rustique et généreuse.",
+        "theme": "Classique",
+        "regime": "Classique",
+        "prix_par_personne": 18,
+        "personnes_min": 12,
+        "stock": 40,
+        "entree": "Terrine de campagne",
+        "plat": "Saucisse purée",
+        "dessert": "Riz au lait",
+        "allergenes": [
+            "Lait"
+        ],
+        "conditions": "Réchauffage conseillé",
+        "images": [
+            "terrine_campagne.png",
+            "saucisse_puree.png",
+            "riz_lait.png"
+        ]
+    },
+    {
+        "menu_id": "17",
+        "titre": "Menu Bio Végétal",
+        "description": "Menu végan à base de produits simples.",
+        "theme": "Classique",
+        "regime": "Végan",
+        "prix_par_personne": 19,
+        "personnes_min": 10,
+        "stock": 30,
+        "entree": "Soupe de légumes",
+        "plat": "Tofu mariné, riz",
+        "dessert": "Compote pomme-poire",
+        "allergenes": [
+            "Soja"
+        ],
+        "conditions": "Stockage au frais",
+        "images": [
+            "soupe_legumes.png",
+            "tofu_marine.png",
+            "compote_pomme_poire.png"
+        ]
+    },
+    {
+        "menu_id": "18",
+        "titre": "Menu Italien",
+        "description": "Inspiration italienne traditionnelle.",
+        "theme": "Classique",
+        "regime": "Classique",
+        "prix_par_personne": 18,
+        "personnes_min": 10,
+        "stock": 35,
+        "entree": "Salade caprese",
+        "plat": "Spaghetti bolognaise",
+        "dessert": "Tiramisu",
+        "allergenes": [
+            "Lait",
+            "Gluten",
+            "Œufs"
+        ],
+        "conditions": "À consommer sous 24h",
+        "images": [
+            "salade_caprese.png",
+            "spaghetti_bolognaise.png",
+            "tiramisu.png"
+        ]
+    },
+    {
+        "menu_id": "19",
+        "titre": "Menu Express",
+        "description": "Menu rapide pour réunions professionnelles.",
+        "theme": "Evènements",
+        "regime": "Classique",
+        "prix_par_personne": 11,
+        "personnes_min": 20,
+        "stock": 70,
+        "entree": "Wrap au thon",
+        "plat": "Sandwich club",
+        "dessert": "Cookie chocolat",
+        "allergenes": [
+            "Poisson",
+            "Gluten",
+            "Lait"
+        ],
+        "conditions": "Livraison froide",
+        "images": [
+            "wrap_thon.png",
+            "sandwich_club.png",
+            "cookie_chocolat.png"
+        ]
+    },
+    {
+        "menu_id": "20",
+        "titre": "Menu Gourmand Vegan",
+        "description": "Menu végan généreux et créatif.",
+        "theme": "Evènements",
+        "regime": "Végan",
+        "prix_par_personne": 21,
+        "personnes_min": 10,
+        "stock": 25,
+        "entree": "Carpaccio de légumes",
+        "plat": "Parmentier végétal",
+        "dessert": "Brownie végan",
+        "allergenes": [
+            "Gluten"
+        ],
+        "conditions": "Réchauffage possible",
+        "images": [
+            "carpaccio_legumes.png",
+            "parmentier_vegetal.png",
+            "brownie_vegan.png"
+        ]
+    }
+]

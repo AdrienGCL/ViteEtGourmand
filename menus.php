@@ -51,11 +51,12 @@
                 </div>
             </section>
             
-            <section>
-                <?php include __DIR__. "/templates/menu_short.php"; ?>
-                <?php include __DIR__. "/templates/menu_short.php"; ?>
-                <?php include __DIR__. "/templates/menu_short.php"; ?>
+            <section id="menusListeDiv">
             </section>
         </main>
+
+        <script src="./assets/js/menus.js"></script>
+
+        <script>initMenus();</script>
 
 <?php require_once __DIR__. "/templates/footer.php"; ?>
