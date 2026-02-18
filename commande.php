@@ -9,22 +9,22 @@
                     <p class="col-auto text white-text m-0">Vos informations</p>
                 </div>
                 <div class="row justify-content-center margin-t-l">
-                    <div class="col-4 bg-white radius-m">
+                    <div class="col-10 col-md-4 bg-white radius-m">
                         <input class="customInput w-100" type="text" name="name" id="nameinput" placeholder="Nom" required>
                     </div>
                 </div>
                 <div class="row justify-content-center margin-t-l">
-                    <div class="col-4 bg-white radius-m">
+                    <div class="col-10 col-md-4 bg-white radius-m">
                         <input class="customInput w-100" type="text" name="firstname" id="firstnameinput" placeholder="Prénom" required>
                     </div>
                 </div>
                 <div class="row justify-content-center margin-t-l">
-                    <div class="col-4 bg-white radius-m">
+                    <div class="col-10 col-md-4 bg-white radius-m">
                         <input class="customInput w-100" type="text" name="mail" id="mailinput" placeholder="Adresse mail" required>
                     </div>
                 </div>
                 <div class="row justify-content-center margin-t-l">
-                    <div class="col-4 bg-white radius-m">
+                    <div class="col-10 col-md-4 bg-white radius-m">
                         <input class="customInput w-100" type="tel" name="phone" id="phoneinput" placeholder="Numéro de téléphone" pattern="[0-9]{10}" required>
                     </div>
                 </div>
@@ -32,12 +32,12 @@
                     <p class="col-auto text white-text m-0">Votre évènement</p>
                 </div>
                 <div class="row justify-content-center margin-t-l">
-                    <div class="col-4 bg-white radius-m">
+                    <div class="col-10 col-md-4 bg-white radius-m">
                         <input class="customInput w-100" type="text" name="adresseprestation" id="adresseprestationinput" placeholder="Adresse de l'évènement" required>
                     </div>
                 </div>
                 <div class="row justify-content-center margin-t-l">
-                    <div class="col-4 bg-white radius-m">
+                    <div class="col-10 col-md-4 bg-white radius-m">
                             <label class="col-auto light-text m-0" for="dateprestationinput">Date de l'évènement</label>
                             <input class="customInput w-100" type="date" name="dateprestation" id="dateprestationinput" required>
                     </div>
@@ -46,19 +46,19 @@
                     <p class="col-auto text white-text m-0">Votre livraison</p>
                 </div>
                 <div class="row justify-content-center margin-t-l">
-                    <div class="col-4 bg-white radius-m">
+                    <div class="col-10 col-md-4 bg-white radius-m">
                             <label class="col-auto light-text m-0" for="datelivraisoninput">Date de livraison souhaitée</label>
                             <input class="customInput w-100" type="date" name="datelivraison" id="datelivraisoninput" required>
                     </div>
                 </div>
                 <div class="row justify-content-center margin-t-l">
-                    <div class="col-4 bg-white radius-m">
+                    <div class="col-10 col-md-4 bg-white radius-m">
                             <label class="col-auto light-text m-0" for="heurelivraisoninput">Heure de livraison souhaitée</label>
                             <input class="customInput w-100" type="time" name="heurelivraison" id="heurelivraisoninput" required>
                     </div>
                 </div>
                 <div class="row justify-content-center margin-t-l">
-                    <div class="col-4 bg-white radius-m">
+                    <div class="col-10 col-md-4 bg-white radius-m">
                         <input class="customInput w-100" type="text" name="adresselivraison" id="adresselivraisoninput" placeholder="Adresse de livraison (si différente)">
                     </div>
                 </div>
@@ -66,12 +66,12 @@
                     <p class="col-auto text white-text m-0">Votre menu</p>
                 </div>
                 <div class="row justify-content-center margin-t-l">
-                    <div class="col-4 bg-white radius-m">
+                    <div class="col-10 col-md-4 bg-white radius-m">
                         <input class="customInput w-100" type="text" name="menu" id="menuinput" placeholder="Menu sélectionné" required>
                     </div>
                 </div>
                 <div class="row justify-content-center margin-t-l">
-                    <div class="col-4 bg-white radius-m">
+                    <div class="col-10 col-md-4 bg-white radius-m">
                         <input class="customInput w-100" type="number" name="quantite" id="quantiteinput" placeholder="Quantité (minimum x)" min="" max="" required>
                     </div>
                 </div>
@@ -82,7 +82,7 @@
                     </svg>
                 </div>
                 <div class="row justify-content-center">
-                    <div class="col-4">
+                    <div class="col-10 col-md-4 col-">
                         <div class="row justify-content-center margin-t-l">
                             <p class="col-auto headline primary-text text-center m-0">Récapitulatif de votre commande</p>
                         </div>
