@@ -338,6 +338,11 @@ input:focus, select:focus{
     background-color: var(--primary);
 }
 
+/* Classe de souris */
+.cursor-default{
+    cursor: default;
+}
+
 
 @media (max-width: 768px) {
     .brand-l{

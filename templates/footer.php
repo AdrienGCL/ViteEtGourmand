@@ -7,6 +7,8 @@
             </div>
         </footer>
     </div>
+
+    <script src="./assets/js/uiManager.js"></script>
     
 </body>
 </html>

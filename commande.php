@@ -116,7 +116,10 @@
                 </div>
                 <div class="row justify-content-center margin-t-l">
                     <div class="col-auto">
-                        <input class="customSubmit bouton text text-decoration-underline" type="submit" name="Commander" value="Commander">
+                        <!-- <input class="customSubmit bouton text text-decoration-underline" type="submit" name="Commander" value="Commander"> -->
+                         <div class="bouton bg-primary p-0 d-flex justify-content-center">
+                            <a class="text dark-text text-decoration-underline m-0 p-0" href="./confirmation.php">Commander</a>
+                        </div>
                     </div>
                 </div>
             </form>
